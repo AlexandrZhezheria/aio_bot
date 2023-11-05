@@ -1,4 +1,4 @@
-BOT_TOKEN = 'Здесь будет ваш токен'
+BOT_TOKEN = '6973945973:AAFqTA1cAAtiYdw7skYDU6Hbfpuq5nHKpBM'
 
 # например, ADMINS = [000000000, 1234567890]
 ADMINS = []
